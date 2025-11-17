@@ -13,73 +13,71 @@ This project presents the design and implementation of an automated pad printing
 Pad printing is a widely used technique for printing 2D images on 3D objects such as pens, keychains, and small industrial parts.
 This project automates the process using:
 
-Silicone printing pad
+* Silicone printing pad
 
-Etched ink plates
+* Etched ink plates
 
-Pneumatic cylinders (X–Y–Z motion)
+* Pneumatic cylinders (X–Y–Z motion)
 
-Inductive proximity sensors
+* Inductive proximity sensors
 
-PIC16F887A microcontroller
+* PIC16F887A microcontroller
 
-Custom PCB
+* Custom Designed PCB
 
-LCD-based user interface
+* LCD-based user interface
 
 Goal: Increase speed, reliability, accuracy, and repeatability compared to manual pad printing.
 
 ## Features
 
-Automated pad printing using 3 pneumatic actuators
+* Automated pad printing using 3 pneumatic actuators
 
-Supports both single-color and dual-color printing modes
+* Supports both single-color and dual-color printing modes
 
-7 inductive proximity sensors for position feedback
+* 7 inductive proximity sensors for position feedback
 
-8 push-button switches + 1 toggle switch for mode selection
+* 8 push-button switches + 1 toggle switch for mode selection
 
-LCD interface for real-time process monitoring
+* LCD interface for real-time process monitoring
 
-Microcontroller-based motion and timing control
+* Microcontroller-based motion and timing control
 
-Custom PCB designed for industrial-level reliability
+* Custom PCB designed for industrial-level reliability
 
-Capable of printing on various 3D objects (pens, keychains, electronic housings, etc.)
+* Capable of printing on various 3D objects (pens, keychains, electronic housings, etc.)
 
-##Technologies & Tools Used
+## Technologies & Tools Used
 ### Hardware
 
-PIC16F887A microcontroller
+* PIC16F887A microcontroller
 
-Inductive proximity sensors
+* Inductive proximity sensors
 
-Pneumatic cylinders
+* Pneumatic cylinders
 
-Pneumatic solenoid valves
+* Pneumatic solenoid valves
 
-LCD display
+* LCD display
 
-Custom PCB
+* Custom PCB
 
-Ink cup, etched plate, silicone pad
+* Ink cup, etched plate, silicone pad
 
 ### Software / Development Tools
 
-Pickit2 (microcontroller flashing)
+* Pickit2 (microcontroller flashing)
 
-Microcontroller IDE 
-
-Simulation tools for logic verification (general microcontroller simulators)
+* Microcontroller IDE 
 
 ### Programming Concepts
 
-Embedded system design
+* Embedded system design
 
-Sensor interfacing
+* Sensor interfacing
 
-Pneumatic and solenoid-based actuator control
+* Pneumatic and solenoid-based actuator control
 
-Control logic implementation on microcontrollers
+* Control logic implementation on microcontrollers
 
-Industrial automation workflows
+* Industrial automation workflows

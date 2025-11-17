@@ -5,15 +5,8 @@ Industrial automation project featuring a fully automated pad printing machine u
 
 This project presents the design and implementation of an automated pad printing machine developed for Indus Engineering, Bangalore. The system automates the traditional pad printing process using microcontrollers, pneumatic systems, proximity sensors, and sensor-driven control logic.
 
-The repository contains:
+<img width="527" height="971" alt="image" src="https://github.com/user-attachments/assets/95e460a3-78b7-40cb-9b56-dbc9ce5116a4" />
 
-Full Project Report (PDF)
-
-Project Demonstration Videos
-
-Images of Hardware, Circuit, and Machine
-
-Documentation and Explanation
 
 ## Project Overview
 
